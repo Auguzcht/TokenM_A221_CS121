@@ -31,10 +31,10 @@ To run TokenMate locally, follow these steps:
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/tokenmate.git
-cd tokenmate
-
+```
+git clone https://github.com/Auguzcht/tokenmate.git
+cd tokenmate 
+```
 ### 2. Open in your browser
 Simply open the index.html file in any modern browser to get started.
 
