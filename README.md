@@ -32,7 +32,7 @@ To run TokenMate locally, follow these steps:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/Auguzcht/tokenmate.git
+https://github.com/Auguzcht/TokenMate_A221_CS121.git
 cd tokenmate 
 ```
 ### 2. Open in your browser
