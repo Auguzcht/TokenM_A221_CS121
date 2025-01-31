@@ -1,4 +1,6 @@
 <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="30" cy="30" r="30" fill="transparent"/>
-<image xlink:href="https://auguzcht.github.io/TokenM_A221_CS121/android-chrome-512x512.png" x="0" y="0" width="60" height="60" />
+<foreignObject width="60" height="60">
+    <img src="https://auguzcht.github.io/TokenM_A221_CS121/android-chrome-512x512.png" width="60" height="60" />
+  </foreignObject>
 </svg>
